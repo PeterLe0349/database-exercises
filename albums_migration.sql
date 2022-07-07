@@ -11,3 +11,4 @@ CREATE TABLE albums (
 
 
 -- mysql -u codeup_test_user -p < albums_migration.sql;
+
